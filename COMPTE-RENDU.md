@@ -33,4 +33,31 @@ Git status indique que nous sommes sur la branche main et qu'il n'ya pas encore 
 
 ## Question 3.3
 
+git status range README.md dans la section principale du repository (zone de travail). 
 
+
+
+## Question 3.4 
+
+La réponse de git status a changé grace à la commande git add README.md
+Cette commande va prendre les fichiers en compte lors du prochain commit.
+
+README.md se trouve désormais dans la zone de préparation.
+
+## Question 3.5
+
+commit bd77847e91e32a2df7058b66866d2bcaa24cfb16
+Author: Clementin <clementin.kuntzmann@e.rascol.net>
+Date:   Thu Oct 1 10:59:46 2026 +0200
+
+    Création du README
+
+Le hash contient 40 caractères.
+Il est écrit en base 16.
+Il représente 160 bits.
+
+## Question 3.7
+
+git status décrit README.md comme
+
+git diff montre les changements. Le + signifie ce qui a été ajouté au fichier.
