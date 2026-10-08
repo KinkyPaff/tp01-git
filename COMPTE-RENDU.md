@@ -214,6 +214,6 @@ Dépôt vérifié : /rhome/ckuntzmann/tp-git/tp01-git
 Score : 23 / 25 — corrigez les points en ECHEC, puis relancez le script.
 
 
-Il se passe que touot les repo est envoyé sur github.
+Il se passe que rien n'est envoyé sur github car on a pas fait git add.
 
 
